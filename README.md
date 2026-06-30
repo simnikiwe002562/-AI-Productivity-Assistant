@@ -10,7 +10,9 @@ This project is a responsive AI-powered workplace assistant designed to improve 
 - AI Research Assistant
 - AI Chatbot
 
-  ## Tools Used
-  - GitHub
-  - Loveable
+## Tools Used
+- Loveable
+- Github
+- 
+
     
