@@ -13,6 +13,4 @@ This project is a responsive AI-powered workplace assistant designed to improve 
 ## Tools Used
 - Loveable
 - Github
-- 
-
     
